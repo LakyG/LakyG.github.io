@@ -3,7 +3,7 @@
 ### If you have any feedback, feel free to create an issue!
 
 ## Scavenger Hunts
-# Find the Code Word
+### Find the Code Word
 This is a fun little hunt which requires some knowledge of computer science (but very basic) and some puzzles!
 
 Each file is password protected. The solution to each clue will give you the code to open the next file. Start on the "Scavenger Hunt" document.
