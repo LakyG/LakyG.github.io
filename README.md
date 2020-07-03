@@ -11,6 +11,8 @@ Each file is password protected. The solution to each clue will give you the cod
 Note: Word will ask you to open the files in the desktop app (because it's password protected).
 
 Lets begin!
+<a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a>
+
 [Start](https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73)
 
 [Clue #1]()
