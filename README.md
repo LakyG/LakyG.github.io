@@ -2,6 +2,10 @@
 ## I created this webpage as a portfolio of some of the work I have done, as well as to display my fun and experimental work!
 ### If you have any feedback, feel free to create an issue!
 
+<html>
+    <hr>
+</html>
+
 ## Scavenger Hunts
 ### Find the Code Word
 This is a fun little hunt which requires some knowledge of computer science (but very basic) and some puzzles!
@@ -27,7 +31,9 @@ Lets begin!
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTWugCYqk9gRtWzp?e=yAlUoY" target="_blank">End</a><br>
 </html>
 
-
+<html>
+    <hr>
+</html>
 
 
 
