@@ -1,4 +1,16 @@
 # Welcome to my GitHub Page!
+## I created this webpage as a portfolio of some of the work I have done, as well as to display my fun and experimental work!
+### If you have any feedback, feel free to create an issue!
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/LakyG/LakyG.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
