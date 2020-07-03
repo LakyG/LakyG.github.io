@@ -4,8 +4,8 @@ function check1() {
     x = document.getElementById("inClue1").value;
 
     if (x != "1989") {
-        alert("Wrong!")
-        return false
+        alert("Wrong!");
+        return false;
     }
     document.getElementById("demo").innerHTML = text;
 }
