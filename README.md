@@ -11,31 +11,20 @@ Each file is password protected. The solution to each clue will give you the cod
 Note: Word will ask you to open the files in the desktop app (because it's password protected).
 
 Lets begin!
+
 <html>
-<a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #1</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #2</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #3</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #4</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #5</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #6</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #7</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #8</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #9</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">End</a><br>    
 </html>
-
-[Start](https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73)
-
-[Clue #1]()
-
-[Clue #2]()
-
-[Clue #3]()
-
-[Clue #4]()
-
-[Clue #5]()
-
-[Clue #6]()
-
-[Clue #7]()
-
-[Clue #8]()
-
-[Clue #9]()
-
-[End]()
 
 
 
