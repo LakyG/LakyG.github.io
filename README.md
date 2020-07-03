@@ -2,10 +2,24 @@
 ## I created this webpage as a portfolio of some of the work I have done, as well as to display my fun and experimental work!
 ### If you have any feedback, feel free to create an issue!
 
+## Scavenger Hunts
+# Find the Code Word
+This is a fun little hunt which requires some knowledge of computer science (but very basic) and some puzzles!
 
+Each file is password protected. The solution to each clue will give you the code to open the next file. Start on the "Scavenger Hunt" document.
 
-
-
+Note: Word will ask you to open the files in the desktop app (because it's password protected).
+[Start](https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73)
+[Clue #1]()
+[Clue #2]()
+[Clue #3]()
+[Clue #4]()
+[Clue #5]()
+[Clue #6]()
+[Clue #7]()
+[Clue #8]()
+[Clue #9]()
+[End]()
 
 
 
