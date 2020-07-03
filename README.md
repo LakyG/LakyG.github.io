@@ -14,16 +14,16 @@ Lets begin!
 
 <html>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #1</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #2</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #3</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #4</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #5</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #6</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #7</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #8</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Clue #9</a><br>
-    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">End</a><br>    
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS4zwjFcZQGdVSqp?e=CZZxcq" target="_blank">Clue #1</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS8VLR9lf4pHWgS1?e=2cu65E" target="_blank">Clue #2</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTARf-oz_L_hkX1-?e=XO6Gk1" target="_blank">Clue #3</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTG41hQ3UE_Eg9i7?e=SjPJUN" target="_blank">Clue #4</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTLu7P3hA0m-J93S?e=YpOnub" target="_blank">Clue #5</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgShy0iGeAVgPGBuB?e=it2iBY" target="_blank">Clue #6</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgSdfjUE-rLaZzCz0?e=Ebs2qn" target="_blank">Clue #7</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgSnP2Y1oaj2QJS3M?e=TPzeGw" target="_blank">Clue #8</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgSqoMxOEkhEh_r8o?e=tEHwk6" target="_blank">Clue #9</a><br>
+    <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTWugCYqk9gRtWzp?e=yAlUoY" target="_blank">End</a><br>
 </html>
 
 
