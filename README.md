@@ -17,7 +17,7 @@ Note: Word will ask you to open the files in the desktop app (because it's passw
 Lets begin!
 
 <html>
-    <!-- <a href="/Clue1.html" target="_blank">TEST</a><br> -->
+    <a href="/Clue1.html" target="_blank">TEST</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS4zwjFcZQGdVSqp?e=CZZxcq" target="_blank">Clue #1</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS8VLR9lf4pHWgS1?e=2cu65E" target="_blank">Clue #2</a><br>
