@@ -18,6 +18,8 @@ Lets begin!
 
 <html>
     <a href="/Clue1.html" target="_blank">TEST</a><br>
+    *Currently Under Maintanence*
+    <!--
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgStF_R9x_QNi_tVK?e=IB4b73" target="_blank">Start</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS4zwjFcZQGdVSqp?e=CZZxcq" target="_blank">Clue #1</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgS8VLR9lf4pHWgS1?e=2cu65E" target="_blank">Clue #2</a><br>
@@ -29,6 +31,7 @@ Lets begin!
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgSnP2Y1oaj2QJS3M?e=TPzeGw" target="_blank">Clue #8</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgSqoMxOEkhEh_r8o?e=tEHwk6" target="_blank">Clue #9</a><br>
     <a href="https://1drv.ms/w/s!AuVrWZ6QtlYdgTWugCYqk9gRtWzp?e=yAlUoY" target="_blank">End</a><br>
+    -->
 </html>
 
 <html>
